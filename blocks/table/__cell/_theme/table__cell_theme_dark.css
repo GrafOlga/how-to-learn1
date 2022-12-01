@@ -1,0 +1,8 @@
+.table__cell_theme_dark {
+  width: 200px;
+  color: #f2f2f2;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  padding: 0;
+  margin: 0;
+}

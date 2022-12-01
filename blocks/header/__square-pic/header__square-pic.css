@@ -1,0 +1,11 @@
+.header__square-pic {
+  background-image: url("/how-to-learn1/images/2f80edd.jpg");
+  position: absolute;
+  width: 568px;
+  height: 568px;
+  top: 64px;
+  right: 0px;
+  z-index: 0;
+  animation: rotation 20s linear infinite;
+  overflow: hidden;
+}
