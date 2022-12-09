@@ -7,5 +7,8 @@
 }
 
 .khan__buy-link:hover {
-  color: #2f80ed;
+  color: #00f;
+  opacity: 0.6;
+  transition: opacity 0.7s linear;
+  text-decoration: underline;
 }
